@@ -34,7 +34,7 @@
 <a href = 'https://www.linkedin.com/in/diego-constante-15b773176'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/64718-linkedin-pixel.png"/></a>
 <a href = 'https://www.instagram.com/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/802667-instagram.png"/></a>
 <a href = 'https://www.twitter.com/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/621846-xlogo.png"/></a> 
-<a href = 'https://www.tiktok.com/dacbconstante'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/256359-tiktok.png"/></a>
+<a href = 'https://www.tiktok.com/@dacbconstbv?_r=1&_t=ZS-93PsPdrkYHl'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/256359-tiktok.png"/></a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
