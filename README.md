@@ -32,7 +32,7 @@
 
 <h2> Connect with me <img width = '32px' src="https://emoji.gg/assets/emoji/20889-cat.png" width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/diego-constante-15b773176'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/64718-linkedin-pixel.png"/></a>
-<a href = 'https://www.instagram.com/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/802667-instagram.png"/></a>
+<a href = 'https://www.instagram.com/its.dacb/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/802667-instagram.png"/></a>
 <a href = 'https://www.twitter.com/'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/621846-xlogo.png"/></a> 
 <a href = 'https://www.tiktok.com/@dacbconstbv?_r=1&_t=ZS-93PsPdrkYHl'> <img width = '32px' align= 'center' src="https://emoji.gg/assets/emoji/256359-tiktok.png"/></a>
 
